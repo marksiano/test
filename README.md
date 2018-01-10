@@ -1,7 +1,7 @@
 # Updating Guide
 
 ## Table of Contents
-1. [Exampleee](#example)
+1. [Exampleee](#example-to)
 
 a
 
@@ -51,5 +51,5 @@ a
 
 a
 
-## Example
+## Example To
 alkdfj
