@@ -1,7 +1,7 @@
 # Updating Guide
 
 ## Table of Contents
-1. [Example](#exampleee)
+1. [Exampleee](#example)
 
 a
 
